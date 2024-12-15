@@ -1,6 +1,0 @@
-{
-    "require": {
-        "studio-42/elfinder": "^2.1",
-        "dompdf/dompdf": "^3.0"
-    }
-}
