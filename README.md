@@ -89,9 +89,9 @@ To run Dormify on your local machine, follow these steps:
 
 
 ## Screenshots
+![Screenshot 1](https://github.com/Caelli22/Dormify/blob/main/screenshots/1.png)
 ![Screenshot 2](https://github.com/Caelli22/Dormify/blob/main/screenshots/2.png)
 ![Screenshot 3](https://github.com/Caelli22/Dormify/blob/main/screenshots/3.png)
-![Screenshot 1](https://github.com/Caelli22/Dormify/blob/main/screenshots/1.png)
 ![Screenshot 4](https://github.com/Caelli22/Dormify/blob/main/screenshots/4.png)
 
 ## License
