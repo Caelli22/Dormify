@@ -89,10 +89,10 @@ To run Dormify on your local machine, follow these steps:
 
 
 ## Screenshots
-![Screenshot 1](https://github.com/Caelli22/Dormify/main/screenshots/1.png)
-![Screenshot 2](https://github.com/Caelli22/Dormify/main/screenshots/2.png)
-![Screenshot 3](https://github.com/Caelli22/Dormify/main/screenshots/3.png)
-![Screenshot 4](https://github.com/Caelli22/Dormify/main/screenshots/4.png)
+![Screenshot 2](https://github.com/Caelli22/Dormify/blob/main/screenshots/2.png)
+![Screenshot 3](https://github.com/Caelli22/Dormify/blob/main/screenshots/3.png)
+![Screenshot 1](https://github.com/Caelli22/Dormify/blob/main/screenshots/1.png)
+![Screenshot 4](https://github.com/Caelli22/Dormify/blob/main/screenshots/4.png)
 
 ## License
 This project is licensed under the MIT License, allowing you to use, modify, and distribute the code, provided you include the original copyright and license notice in any copy of the code or substantial portion of the software.
