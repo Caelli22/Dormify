@@ -81,7 +81,7 @@ To run Dormify on your local machine, follow these steps:
 
 - **Project Leader & Lead Developer:** [Dave Bryan Ico](https://www.facebook.com/kaeli.leiven) - Responsible for leading the team, leading the development process and overseeing the development of core functionalities.
 
-- **Developer:** [Elijah Joshua Dimaculangan](https://www.facebook.com/storm.12162003) - Focused on development and feature integrations.
+- **Fullstack Developer:** [Elijah Joshua Dimaculangan](https://www.facebook.com/storm.12162003) - Focused on development and feature integrations.
 
 - **UI/UX & Documentation:** [Maria Jemia Daniela Palma](https://www.facebook.com/Jeimeiya) - Designed the user interface, enhanced user experience, and documentation including user manuals and guidelines.
 
